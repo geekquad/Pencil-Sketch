@@ -1,4 +1,4 @@
-# Pencil-
+# Pencil - Sketch (Black & White)
 An image is basically an array of numbers to Python.
 A basic program that uses computer vision techniques to convert any RGB image to a Black & White pencil sketch. 
 
